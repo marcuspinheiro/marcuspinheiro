@@ -20,7 +20,7 @@ Marcus = {
         "code": ["Python", "Pyspark", "SQL"],
         "frameworks": ["apache-spark","fast-api"],
         "dev_ops": ["azure","aws""docker🐳"],
-        "misc": ["apache-kafka", "rabbit-mq", "airflow"],
+        "developer_tools": ["Databricks", "Git", "Docker", "PyCharm", "IntelliJ", "Eclipse", "Hive", "Hadoop"],
         "databases": [
           "delta-lake", "cosmos", "mongo", "my-sql", "dynamo-db"
         ],
